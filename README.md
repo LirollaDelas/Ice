@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="logo">
-		<img src="./img/2.png">
+		<img src="./img/logo.png">
 
 </body>
 </html>
